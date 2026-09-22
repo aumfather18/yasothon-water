@@ -1,0 +1,7 @@
+{
+  "name": "yasothon-water",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ระบบเฝ้าระวังน้ำฝนและระดับน้ำ จังหวัดยโสธร — หน้าเว็บสถิต (index.html) + Vercel Serverless Function พร็อกซี/แคชข้อมูลจาก ThaiWater (api/water.js)",
+  "engines": { "node": ">=18" }
+}
